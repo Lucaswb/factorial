@@ -10,5 +10,14 @@ $(function() {
     }
     alert(result)
 
+//     this is a recursice function demonstration
+//     var recursive = function(number) {
+//     if ((number===1)||(number===0)){
+//         return 1
+//     } else {
+//         return number * recursive(number-1)
+//     }
+// }
+
   })
 })
